@@ -1,10 +1,7 @@
 # Site navigation links
 
-- title: Gallerie
-  url: /gallery/
+- title: Links
+  url: /links/
 
 - title: Artikel
   url: /articles/
-
-- title: Blog
-  url: /blog/

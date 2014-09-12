@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: RT-Freunde Wsg
+  name: RT-Freunde
   avatar: bio-photo.jpg
   email: info.rt125@gmail.com
   disqus-shortname:
