@@ -1,8 +1,10 @@
 # Site wide configuration
 
-title: RT 125
+title: RT 125 - Der Mythos ist lebendig
 locale: de_DE
-description: Das Portal zu einem der meistgebauten Motorräder der Welt
+description: >
+  Sie wurde weltweit über 5 Mio. mal gebaut und schrieb damit wie kein zweites Motorrad deutsche Zweiradgeschichte.
+  Hier entsteht ein Webauftritt, der Sie mit Infos zur RT 125 versorgt.
 logo: site-logo.png
 search: false
 url: 
