@@ -13,13 +13,10 @@ share: false
 ---
 
 In einer Zeit, in der für Schnickschnack kein Platz war, galt es die Technik der RT 125
-möglichst einfach und wartbar zu halten. Der lüftgekühlte Zweitaktmotor mit
-Schnürle-Umkehrspülung verrichtete seinen Dienst zuverlässig und langlebig.
+möglichst einfach und wartbar zu halten. Der lüftgekühlte Zweitaktmotor verrichtete seinen Dienst zuverlässig und langlebig.
 
-## Hubraum, Leistung und Höchstgeschwindigkeit
-Die Bohrung von 52 mm und der Hub von 58 mm ergeben 123 cm³ Hubraum. Je nach Modell steht
-damit eine Leistung von 4,75 bis 6,5 PS zur Verfügung. Die Höchstgeschwindigkeit der RT
-125 liegt zwischen 75 und 90 km/h.
+## Technische Daten im Überlick
+125 ccm, 5 PS Zweitaktmotor mit Schnürle-Umkehrspülung, Bateriezündung, Gleichstrom-Lichtanlage mit 35/45 Watt Leistung, Dreigang-Blockgetriebe, Kraftstoffverbrauch 2,25 Liter auf 100 km, 75-90 km/h Höchstgeschwindigkeit (modellabhängig)
 
 ## Motorschmierung
 Der Motor wird mit einer Gemischschmierung betrieben. Das Mischungsverhältnis liegt im
