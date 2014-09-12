@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: page
 title: "Die Technik der RT 125 im Überblick"
 excerpt: "Dieser Artikel beschreibt die Technik der RT 125"
-categories: articles
-tags: 
 image:
   feature: so-simple-sample-image-3.jpg
   credit: WeGraphics
