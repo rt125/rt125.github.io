@@ -5,9 +5,8 @@ excerpt: "Artikel zum Online-Start von www.rt-125.de"
 categories: articles
 tags: 
 image:
-  feature: so-simple-sample-image-3.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: rt_125_close-up_2.jpg
+  credit: Oldtimer-Treffen, Rhön (2013)
 comments: false
 share: false
 ---
