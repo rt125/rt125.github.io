@@ -6,7 +6,6 @@ categories: articles
 tags: 
 image:
   feature: rt_125_close-up_2.jpg
-  credit: Oldtimer-Treffen, Rhön (2013)
 comments: false
 share: false
 ---
