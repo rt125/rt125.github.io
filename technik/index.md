@@ -3,9 +3,8 @@ layout: page
 title: "Die Technik der RT 125 im Überblick"
 excerpt: "Dieser Artikel beschreibt die Technik der RT 125"
 image:
-  feature: so-simple-sample-image-3.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: rt_125_close-up.jpg
+  credit: Oldtimer-Treffen, Rhön (2013)
 comments: false
 share: false
 ---
