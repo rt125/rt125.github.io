@@ -3,9 +3,8 @@ layout: page
 title: Links
 excerpt: "Links zu Information zur RT 125"
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: rt_125_close-up_2.jpg
+  credit: Oldtimer-Treffen, Rhön (2013)
 ---
 
 ## Informationen zur RT 125 finden Sie unter:
